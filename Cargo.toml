@@ -1,0 +1,12 @@
+[package]
+name = "quat_aerospace"
+version = "0.1.0"
+edition = "2024"
+authors = ["Strale <strahinjastojanovic826@gmail.com>"]
+description = "Zero-allocation no_std quaternary logic (00, 01, 10, 11) with 75% packed memory savings, decoupled precision, and radiation-hardened primitives for CubeSats, drones, and flight controllers"
+license = "AGPL-3.0-only"
+repository = "https://github.com/your-username/quat_aerospace"
+categories = ["embedded", "no-std", "science::robotics"]
+keywords = ["quaternary", "no-std", "aerospace", "cubesat", "rad-hard"]
+
+[dependencies]
